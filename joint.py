@@ -1,3 +1,3 @@
-a=raw_input()
-b=raw_input()
-print a+b
+r=raw_input()
+k=raw_input()
+print r+k
